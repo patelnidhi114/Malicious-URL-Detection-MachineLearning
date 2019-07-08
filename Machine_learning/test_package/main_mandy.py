@@ -1,7 +1,6 @@
 # Comp-6321 Project
 # Analysing Suspicious URLs using Machine Learning Algorithms
-# Name: Mandeep Kaur
-# Student ID: 40059801
+
 
 import ipaddress as IP
 import pandas as pd
